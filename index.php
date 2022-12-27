@@ -10,26 +10,7 @@
 
 <body>
     <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
-    <h1>Sandun</h1>
+
     <h1>Sandun</h1>
 
 </body>
