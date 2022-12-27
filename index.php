@@ -9,21 +9,9 @@
 </head>
 
 <body>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Namindu</h1>
-    <h1>Wathsala</h1>
-    <h1>Wathsala</h1>
-    <h1>Wathsala</h1>
-    <h1>Wathsala</h1>
-    <h1>Wathsala</h1>
-    <h1>Wathsala</h1>
-    <h1>Wathsala</h1>
-    <h1>Wathsala</h1>
 
+
+    <div></div>
 
 </body>
 
