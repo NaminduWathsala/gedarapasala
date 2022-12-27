@@ -13,13 +13,8 @@
     <h1>Sandun</h1>
     <h1>Sandun</h1>
     <h1>Sandun</h1>
-<<<<<<< Updated upstream
     <h1>Namindu</h1>
     <h1>Sandun</h1>
-=======
-    <h1>Sandun</h1>
-    <h1>Namindu</h1>
->>>>>>> Stashed changes
     <h1>Sandun</h1>
     <h1>Sandun</h1>
     <h1>Sandun</h1>
