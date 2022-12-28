@@ -33,11 +33,25 @@ body {
 }
 
 .nav-logo-div {
-    height: 8%;
+    height: 7%;
     margin-left: 10%;
     margin-top: 20px;
     background-image: url(Logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+.nav_bar_item_div {
+    width: 100%;
+    height: 80%;
+    margin-top: 25px;
+}
+
+.nav_item_1 {
+    height: 7.5%;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
