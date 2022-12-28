@@ -29,3 +29,13 @@ body {
 .sub_1 {
     width: 60%;
 }
+
+.main-menu-prof {
+    height: 50px;
+    width: 100%;
+}
+
+.left-part-bac-col {
+    background-color: rgb(253, 255, 223);
+    border-radius: 30px;
+}
