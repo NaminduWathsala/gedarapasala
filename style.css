@@ -31,13 +31,12 @@ body {
 }
 
 .main-menu-prof {
-    height: 50px;
+    height: 30px;
     width: 100%;
 }
 
 .left-part-bac-col {
-    background-color: rgb(253, 255, 223);
-    border-radius: 30px;
+    background-color: #bdbdbd;
 }
 
 .right-part-det-col {
