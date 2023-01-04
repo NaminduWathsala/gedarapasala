@@ -60,3 +60,12 @@ body {
     padding-left: 25px;
     font-size: 17px;
 }
+
+.search_bar_icon {
+    background-image: url(resources/image/icons8_clear_search.png);
+    width: 7%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    border: solid rgb(219, 219, 219) 1px;
+}
